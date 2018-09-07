@@ -2,7 +2,8 @@
 This software was developed by Lorenzo Narducci at the University of Maryland
 for the purpose of parsing the LSU HASP webpage for new telemetry data. You can
 modify and adjust the program as needed to suit your own purposes. All additions
-to the main code base are subject to the proper code reviews.
+to the main code base are subject to the proper code reviews. If you have any
+questions comments or concerns, please email me at lzonarducci@gmail.com
 
 Collaborators:
 
